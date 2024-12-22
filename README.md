@@ -35,9 +35,8 @@ Requirements:
 <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python">
 </h4>
 
-## Requirements
+## Requirements python library 
 
-- **Python**
 - **Pillow (PIL)**
 
 To install Pillow, run:
