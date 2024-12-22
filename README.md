@@ -1,6 +1,39 @@
+<p align="center">
+    <a href="https://spyboy.in/twitter">
+      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.in/">
+      <img src="https://img.shields.io/badge/-spyboy.in-black?logo=google&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.blog/">
+      <img src="https://img.shields.io/badge/-spyboy.blog-black?logo=wordpress&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://spyboy.in/Discord">
+      <img src="https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge">
+    </a>
+  
+</p>
+
 # Quot3w4ll - Random Quote Wallpaper Tool
 
+<img width="100%" align="centre" src="https://github.com/spyboy-productions/Quot3w4ll/blob/main/example.png" />
+
 Quot3w4ll is a simple tool that changes your desktop wallpaper to display a random quote on a black background with white text. Quotes are fetched from a `quote.txt` file hosted in a GitHub repository. This tool is designed for Windows systems.
+
+<h4 align="center">
+  OS compatibility :
+  <br><br>
+  <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
+</h4>
+
+<h4 align="center"> 
+Requirements:
+<br><br>
+<img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python">
+</h4>
 
 ## Requirements
 
