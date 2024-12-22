@@ -61,7 +61,7 @@ To enable the tool to automatically change your wallpaper every time Windows sta
 2. This will set up the tool to execute at every startup.
 
 ## How It Works
-1. A random quote is selected from the `quotes.csv`L.
+1. A random quote is selected from the `quotes.csv`.
 2. The tool generates an image with a black background and white text displaying the selected quote.
 3. The generated image is set as your desktop wallpaper.
 
