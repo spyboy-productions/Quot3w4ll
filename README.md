@@ -17,7 +17,7 @@
   
 </p>
 
-# Quot3w4ll - Random Quote Wallpaper Tool
+## Quot3w4ll - Random Quote Wallpaper Tool
 
 <img width="100%" align="centre" src="https://github.com/spyboy-productions/Quot3w4ll/blob/main/example.png" />
 
@@ -35,7 +35,15 @@ Requirements:
 <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python">
 </h4>
 
-## Requirements python library 
+### How to use:
+
+- Clone the Repo first
+```
+git clone https://github.com/spyboy-productions/Quot3w4ll.git
+```
+- Download [python](https://www.python.org/downloads/)
+
+### Requirements python library 
 
 - **Pillow (PIL)**
 
@@ -44,7 +52,7 @@ To install Pillow, run:
 pip install pillow
 ```
 
-## Usage
+### Usage
 
 ### Manual Wallpaper Change
 To change the wallpaper manually, run:
@@ -60,12 +68,12 @@ To enable the tool to automatically change your wallpaper every time Windows sta
    ```
 2. This will set up the tool to execute at every startup.
 
-## How It Works
+### How It Works
 1. A random quote is selected from the `quotes.csv`.
 2. The tool generates an image with a black background and white text displaying the selected quote.
 3. The generated image is set as your desktop wallpaper.
 
-## Notes
+### Notes
 - Ensure Python is added to your system PATH.
 - If the tool does not work as expected, check the configuration of the startup task.
 
