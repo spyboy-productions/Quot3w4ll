@@ -21,7 +21,7 @@
 
 <img width="100%" align="centre" src="https://github.com/spyboy-productions/Quot3w4ll/blob/main/example.png" />
 
-Quot3w4ll is a simple tool that changes your desktop wallpaper to display a random quote on a black background with white text. Quotes are fetched from a `quote.txt` file hosted in a GitHub repository. This tool is designed for Windows systems.
+Quot3w4ll is a simple tool that changes your desktop wallpaper to display a random quote. Quotes are fetched from a `Quotes.csv` file. This tool is designed for Windows systems. Get new inspirational quote every time you start your computer or change the wallpaper manually.
 
 <h4 align="center">
   OS compatibility :
