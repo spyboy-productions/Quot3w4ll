@@ -7,8 +7,8 @@ import ctypes
 # Configuration
 LOCAL_QUOTE_FILE = "quotes.csv"  # Local quotes file
 WALLPAPER_PATH = os.path.expanduser("~\\AppData\\Local\\Temp\\wallpaper.bmp")
-FONT_PATH = "Helvetica.ttf"  # Update with the path to a suitable font if Arial is unavailable.
-# Configuration (moved outside the function for global access)
+FONT_PATH = "Helvetica.ttf" 
+# Configuration
 QUOTE_FONT_SIZE = 40
 AUTHOR_FONT_SIZE = 24
 MARGIN = 50
