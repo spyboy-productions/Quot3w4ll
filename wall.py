@@ -8,8 +8,8 @@ import ctypes
 # Configuration
 GITHUB_QUOTE_URL = "https://gist.githubusercontent.com/thisisshubhamkumar/51f71ab98e6b58911bf17ca2ff5eda0d/raw/963b5a9355f04741239407320ac973a6096cd7b6/quotes.csv"
 WALLPAPER_PATH = os.path.expanduser("~\\AppData\\Local\\Temp\\wallpaper.bmp")
-FONT_PATH = "Helvetica.ttf"  # Update with the path to a suitable font if Arial is unavailable.
-# Configuration (moved outside the function for global access)
+FONT_PATH = "Helvetica.ttf"  
+# Configuration
 QUOTE_FONT_SIZE = 40
 AUTHOR_FONT_SIZE = 24
 MARGIN = 50
