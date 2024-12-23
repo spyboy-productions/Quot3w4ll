@@ -21,7 +21,7 @@
 
 <img width="100%" align="centre" src="https://github.com/spyboy-productions/Quot3w4ll/blob/main/example.png" />
 
-Quot3w4ll is a user-friendly application that refreshes your desktop wallpaper with a random quote. Designed specifically for Windows, it provides a new inspirational quote every time you start your computer. Alternatively, you can simply double-click to manually change your wallpaper and get a new quote.
+Quot3w4ll is an intuitive application that updates your desktop wallpaper with a random quotation. Designed specifically for Windows, it provides a new inspirational quote every time you start your computer. Alternatively, you can double-click to change your wallpaper and manually get a new quote.
 
 <h4 align="center">
   OS compatibility :
