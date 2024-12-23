@@ -57,14 +57,14 @@ pip install pillow
 ### Manual Wallpaper Change
 To change the wallpaper manually, run:
 ```bash
-Quot3w4ll.bat
+Quot3w4ll.vbs
 ```
 
 ### Automatic Wallpaper Change on Startup
 To enable the tool to automatically change your wallpaper every time Windows starts:
 1. Run:
    ```bash
-   enable_startup.bat
+   enable_startup_background.bat
    ```
 2. This will set up the tool to execute at every startup.
 
