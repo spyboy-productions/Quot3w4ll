@@ -1,2 +1,2 @@
 @echo off
-python "%~dp0wall.py"
+python3 "%~dp0wall.py"
