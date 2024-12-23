@@ -66,7 +66,8 @@ To enable the tool to automatically change your wallpaper every time Windows sta
    ```bash
    enable_startup_background.bat
    ```
-2. This will set up the tool to execute at every startup.
+Note: This will create and save `startup_wall.vbs` file in the start-up folder and execute at every startup. 
+- Make sure you don't delete the `Quot3w4ll` folder that you downloaded nor change the location of it.
 
 ### How It Works
 1. A random quote is selected from the `quotes.csv`.
